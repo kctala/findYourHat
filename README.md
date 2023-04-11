@@ -1,0 +1,2 @@
+# findYourHat
+Interactive terminal game
